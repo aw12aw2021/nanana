@@ -1,1 +1,1 @@
-nap0o/nezha:latest
+FROM nap0o/nezha:latest
